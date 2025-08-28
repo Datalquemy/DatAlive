@@ -1,0 +1,3 @@
+# Ignore AWS credentials CSV files
+awsDA/credentials/
+*.csv
