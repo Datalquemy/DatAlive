@@ -1,4 +1,4 @@
-# Proyecto DataAlive (DA) — Plan Maestro
+# Proyecto DataAlive (DA) — Plan Maestro Multidominio
 
 Este documento describe todas las fases del proyecto **DataAlive (DA)**.  
 
